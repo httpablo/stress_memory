@@ -21,8 +21,8 @@ Este comportamento foi projetado para forçar o sistema a um estado de pressão 
 Para garantir a reprodutibilidade dos resultados apresentados no artigo, o seguinte ambiente de máquina virtual (VM) foi utilizado:
 
 - **Virtualizador:** Oracle VM VirtualBox
-- **Sistema Operacional:** Debian 12 Server (ou Ubuntu Server 22.04 LTS)
-- **Memória RAM Física:** 1 GB
+- **Sistema Operacional:** Ubuntu Server 22.04 LTS
+- **Memória RAM Física:** 2 GB
 - **Espaço de Swap:** 2 GB
 - **CPU:** 1 vCPU
 
@@ -42,7 +42,7 @@ sudo apt update && sudo apt install sysstat
 
 ## Protocolo de Execução dos Experimentos
 
-O protocolo a seguir deve ser executado para cada um dos três cenários avaliados no artigo (`swappiness` = 10, 60 e 100). É crucial reiniciar a VM entre cada experimento para garantir um estado inicial limpo.
+O protocolo a seguir deve ser executado para cada um dos três cenários avaliados no artigo (`swappiness` = 10, 60 e 100). É necessário reiniciar a VM entre cada experimento para garantir um estado inicial limpo.
 
 **Setup:** Conecte-se à VM usando **três terminais SSH** simultaneamente.
 
@@ -94,5 +94,3 @@ Ao final de cada execução, os seguintes arquivos serão gerados na pasta `home
 - `output_swappiness_XX.txt`: Log de alocação do script de estresse.
 - `vmstat_log_swappiness_XX.txt`: Registro segundo a segundo da atividade de memória e swap.
 - `iostat_log_swappiness_XX.txt`: Registro segundo a segundo da atividade de E/S do disco.
-
-Esses arquivos contêm os dados brutos utilizados para gerar as tabelas e gráficos apresentados no artigo.
