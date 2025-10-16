@@ -1,0 +1,33 @@
+--- INICIANDO TESTE DE ESTRESSE DE MEMÓRIA ---
+Alocando memória em blocos de 100 MB.
+Pressione Ctrl+C para encerrar o teste a qualquer momento.
+--------------------------------------------------
+[04:00:21] Alocando bloco 1... SUCESSO. Total alocado: 100 MB
+[04:00:22] Alocando bloco 2... SUCESSO. Total alocado: 200 MB
+[04:00:24] Alocando bloco 3... SUCESSO. Total alocado: 300 MB
+[04:00:25] Alocando bloco 4... SUCESSO. Total alocado: 400 MB
+[04:00:26] Alocando bloco 5... SUCESSO. Total alocado: 500 MB
+[04:00:27] Alocando bloco 6... SUCESSO. Total alocado: 600 MB
+[04:00:28] Alocando bloco 7... SUCESSO. Total alocado: 700 MB
+[04:00:29] Alocando bloco 8... SUCESSO. Total alocado: 800 MB
+[04:00:31] Alocando bloco 9... SUCESSO. Total alocado: 900 MB
+[04:00:32] Alocando bloco 10... SUCESSO. Total alocado: 1000 MB
+[04:00:34] Alocando bloco 11... SUCESSO. Total alocado: 1100 MB
+[04:00:36] Alocando bloco 12... SUCESSO. Total alocado: 1200 MB
+[04:00:38] Alocando bloco 13... SUCESSO. Total alocado: 1300 MB
+[04:00:40] Alocando bloco 14... SUCESSO. Total alocado: 1400 MB
+[04:00:42] Alocando bloco 15... SUCESSO. Total alocado: 1500 MB
+[04:00:43] Alocando bloco 16... SUCESSO. Total alocado: 1600 MB
+[04:00:45] Alocando bloco 17... SUCESSO. Total alocado: 1700 MB
+[04:00:46] Alocando bloco 18... SUCESSO. Total alocado: 1800 MB
+[04:00:48] Alocando bloco 19... SUCESSO. Total alocado: 1900 MB
+[04:00:49] Alocando bloco 20... SUCESSO. Total alocado: 2000 MB
+[04:00:51] Alocando bloco 21... SUCESSO. Total alocado: 2100 MB
+[04:00:53] Alocando bloco 22... SUCESSO. Total alocado: 2200 MB
+[04:00:54] Alocando bloco 23... SUCESSO. Total alocado: 2300 MB
+[04:00:55] Alocando bloco 24... SUCESSO. Total alocado: 2400 MB
+[04:00:57] Alocando bloco 25... SUCESSO. Total alocado: 2500 MB
+[04:00:59] Alocando bloco 26... SUCESSO. Total alocado: 2600 MB
+[04:01:01] Alocando bloco 27... SUCESSO. Total alocado: 2700 MB
+[04:01:03] Alocando bloco 28... SUCESSO. Total alocado: 2800 MB
+[04:01:05] Alocando bloco 29...

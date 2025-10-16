@@ -1,0 +1,217 @@
+Linux 5.15.0-157-generic (trabalhoso) 	10/11/2025 	_x86_64_	(1 CPU)
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             220.07      3962.23      6661.20         0.00    7562517   12713900          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda               0.00         0.00         0.00         0.00          0          0          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda               4.00        20.00        48.00         0.00         20         48          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             138.00      5940.00         0.00         0.00       5940          0          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda               4.00       160.00         0.00         0.00        160          0          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda               2.00         8.00         0.00         0.00          8          0          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda               0.00         0.00         0.00         0.00          0          0          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda               1.00         0.00        28.00         0.00          0         28          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda               1.00         0.00         4.00         0.00          0          4          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda               0.00         0.00         0.00         0.00          0          0          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda               0.00         0.00         0.00         0.00          0          0          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda               0.00         0.00         0.00         0.00          0          0          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda               6.93         0.00       629.70         0.00          0        636          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             335.00        48.00     66072.00         0.00         48      66072          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda              83.17         7.92     41267.33         0.00          8      41680          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             263.00       944.00     61412.00         0.00        944      61412          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             200.98       850.98     27152.94         0.00        868      27696          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             232.32       509.09     69632.32         0.00        504      68936          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             205.00         4.00     31088.00         0.00          4      31088          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             283.00      2064.00    105116.00         0.00       2064     105116          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             642.00      6376.00     27212.00         0.00       6376      27212          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             178.00       624.00     46324.00         0.00        624      46324          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             340.00       144.00    116720.00         0.00        144     116720          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             167.00       196.00     34916.00         0.00        196      34916          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             195.00       116.00     83120.00         0.00        116      83120          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             233.66        83.17     86815.84         0.00         84      87684          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             213.00       112.00     63448.00         0.00        112      63448          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             217.00      3212.00     55104.00         0.00       3212      55104          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             612.00      8424.00    116936.00         0.00       8424     116936          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             262.00       384.00     54900.00         0.00        384      54900          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda              97.03       114.85     40514.85         0.00        116      40920          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             329.00       316.00     95516.00         0.00        316      95516          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             306.00       204.00     69616.00         0.00        204      69616          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda              54.00        12.00     17768.00         0.00         12      17768          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             189.00       140.00     16244.00         0.00        140      16244          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             236.00       128.00     15340.00         0.00        128      15340          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             159.00         4.00      7048.00         0.00          4       7048          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda              41.00         4.00     13816.00         0.00          4      13816          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda              25.00         8.00     10788.00         0.00          8      10788          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             251.00      1420.00     84824.00         0.00       1420      84824          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             376.00      2272.00    111236.00         0.00       2272     111236          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             119.80      1053.47     16158.42         0.00       1064      16320          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             277.00      1292.00     90400.00         0.00       1292      90400          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             296.00       152.00     89544.00         0.00        152      89544          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             157.00       108.00     27800.00         0.00        108      27800          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             187.00        88.00     63356.00         0.00         88      63356          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             294.00       116.00    109776.00         0.00        116     109776          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             131.00        96.00     34576.00         0.00         96      34576          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             133.00        88.00     44736.00         0.00         88      44736          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             828.97      2209.35     48358.88         0.00       2364      51744          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             499.00     33512.00      2432.00         0.00      33512       2432          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             657.14     47516.19       929.52         0.00      49892        976          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             570.10     39496.91       119.59         0.00      38312        116          0
+
+
+Device             tps    kB_read/s    kB_wrtn/s    kB_dscd/s    kB_read    kB_wrtn    kB_dscd
+sda             437.00      3520.00        40.00         0.00       3520         40          0
+
